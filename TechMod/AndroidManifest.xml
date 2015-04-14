@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-        package="net.muse.addon.tcpe"
+        package="net.muse.addon.techpe"
         android:versionCode="6"
         android:versionName="2.0 build 6">
 
@@ -15,7 +15,7 @@
 
     <!-- metadata specifying the library name. must match Android.mk.-->
     <meta-data android:name="net.zhuoweizhang.mcpelauncher.api.nativelibname"
-        android:value="net.muse.addon.tcpe"/>
+        android:value="net.muse.addon.techpe"/>
     </application>
 
 </manifest>
